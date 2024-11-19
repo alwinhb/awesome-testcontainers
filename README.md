@@ -10,18 +10,34 @@ This is a curated list of Testcontainers related resources. It is not an officia
 
 This comprehensive list is maintained by the [Collabnix community](https://collabnix.com). The aim is to highlight the most valuable and relevant resources for Testcontainers users. This could include the latest updates, tools, tutorials, and other materials that the community finds particularly useful.
 
-## 📝 Join our Community
+# Table of Contents
 
-- Join 9900+ DevOps Engineers today via [Community Slack](https://launchpass.com/collabnix)
-- Join our [Discord Server](https://discord.gg/QEkCXAXYSe)
-- Fork, Contribute & Share via [Testcontainers GITHUB Repository](https://github.com/collabnix/awesome-testcontainers)
-- Click and Follow us over Twitter [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40collabnix)](https://twitter.com/collabnix)
+
+1. [Featured Modules](#featured-modules)
+2. [Languages](#languages)
+3. [Testcontainers and AI/LLM](#testcontainers-and-aillm)
+4. [Testcontainers and CI/CD](#testcontainers-and-cicd)
+5. [Testcontainers Cloud](#testcontainers-cloud)
+6. [Testcontainers Desktop](#testcontainers-desktop)
+7. [Testcontainers and C/C++/Swift](#testcontainers-and-ccswift)
+8. [Testcontainers and Kubernetes](#testcontainers-and-kubernetes)
+9. [Testcontainers and .NET](#testcontainers-and-net)
+10. [Testcontainers and Go](#testcontainers-and-go)
+11. [Testcontainers and PHP](#testcontainers-and-php)
+12. [Testcontainers and Spring](#testcontainers-and-spring)
+13. [Testcontainers and Playwright](#testcontainers-and-playwright)
+14. [Integrations](#integrations)
+15. [Blogs](#blogs)
+16. [Developer Stories](#developer-stories)
+17. [Featured Videos](#featured-videos)
+18. [Community](#community)
+
 
 ## Featured Modules
 
 Discover official and community modules from the [Modules Catalog](https://testcontainers.com/modules/), and add your own module to the catalog by submitting a pull request to the [Modules Catalog repository](https://github.com/testcontainers/community-module-registry/).
 
-- [Kindcontainers](https://testcontainers.com/modules/kindcontainer/)
+- [Kindcontainers](https://testcontainers.com/modules/kindcontainer/) 
 - [LocalStack](https://testcontainers.com/modules/localstack/)
 - [Microcks](https://testcontainers.com/modules/microcks/)
 - [MongoDB](https://testcontainers.com/modules/mongodb/)
@@ -71,14 +87,14 @@ Discover official and community modules from the [Modules Catalog](https://testc
 
 ## Testcontainers and AI/LLM
 
-- [How to Run Hugging Face Models Programmatically Using Ollama and Testcontainers](https://www.docker.com/blog/how-to-run-hugging-face-models-programmatically-using-ollama-and-testcontainers/)
+- [How to Run Hugging Face Models Programmatically Using Ollama and Testcontainers](https://www.docker.com/blog/how-to-run-hugging-face-models-programmatically-using-ollama-and-testcontainers/) ![badge](https://img.shields.io/badge/-new-green) 
 - [A Promising Methodology for Testing GenAI Applications in Java](https://www.docker.com/blog/testing-genai-applications-in-java/)
 - [Generative AI : How to run a LLM with Python — Testcontainers and Ollama](https://towardsdev.com/testing-llms-and-prompts-using-testcontainers-and-ollama-in-python-81e8f7c18be7)
 
 ## Testcontainers and CI/CD
 
 - [Running Testcontainers Tests on GitLab CI](https://www.docker.com/blog/running-testcontainers-tests-on-gitlab-ci/)
-- [Running Testcontainers Tests on Buildkite](https://www.docker.com/blog/running-testcontainers-tests-on-buildkite/)
+- [Running Testcontainers Tests on Buildkite](https://www.docker.com/blog/running-testcontainers-tests-on-buildkite/) ![badge](https://img.shields.io/badge/-new-green) 
 - [Revolutionize Your CI/CD Pipeline: Integrating Testcontainers and Bazel](https://www.docker.com/blog/revolutionize-your-ci-cd-pipeline-integrating-testcontainers-and-bazel)
 - [How to Use Testcontainers on Jenkins CI](https://www.docker.com/blog/how-to-use-testcontainers-on-jenkins-ci/)
 - [Running Testcontainers Tests Using GitHub Actions and Testcontainers Cloud](https://www.docker.com/blog/running-testcontainers-tests-using-github-actions/)
@@ -86,11 +102,12 @@ Discover official and community modules from the [Modules Catalog](https://testc
 
 ## Testcontainers Cloud
 
-- [Streamlining Local Development with Dev Containers and Testcontainers Cloud](https://www.docker.com/blog/streamlining-local-development-with-dev-containers-and-testcontainers-cloud/)
+- [Streamlining Local Development with Dev Containers and Testcontainers Cloud](https://www.docker.com/blog/streamlining-local-development-with-dev-containers-and-testcontainers-cloud/) ![badge](https://img.shields.io/badge/-new-green) 
 
 ## Testcontainers Desktop
 
 - [Connecting to Testcontainers Services using Testcontainers Desktop](https://www.docker.com/blog/connecting-to-testcontainers-services-using-testcontainers-desktop/)
+- [Testcontainers Desktop](https://www.baeldung.com/testcontainers-desktop)
 
 ## Testcontainers and C/C++/Swift
 
@@ -99,7 +116,7 @@ Discover official and community modules from the [Modules Catalog](https://testc
 ## Testcontainers and Kubernetes
 
 - [Kindcontainers](https://github.com/dajudge/kindcontainer)
-- [Develop Kubernetes Operators in Java without Breaking a Sweat](https://www.docker.com/blog/develop-kubernetes-operators-in-java-without-breaking-a-sweat/)
+- [Develop Kubernetes Operators in Java without Breaking a Sweat](https://www.docker.com/blog/develop-kubernetes-operators-in-java-without-breaking-a-sweat/) ![badge](https://img.shields.io/badge/-new-green) 
 
 ## Testcontainers and .NET
 
@@ -121,13 +138,34 @@ Discover official and community modules from the [Modules Catalog](https://testc
 - [DB Integration Tests with Spring Boot and Testcontainers](https://www.baeldung.com/spring-boot-testcontainers-integration-test)
 - [Spring Boot Testing with JUnit 5, Mockito & Testcontainers](https://www.udemy.com/course/testing-spring-boot-application-with-junit-and-mockito/)
 - [What’s new with Testcontainers in Spring Boot 3.2.0](https://www.atomicjar.com/2023/11/whats-new-with-testcontainers-in-spring-boot-3-2-0/)
+- [How to Reuse Testcontainers in Java](https://www.baeldung.com/java-reuse-testcontainers)
+
+## Testcontainers and Playwright
+ - [testcontainers-playwright](https://github.com/orange-buffalo/testcontainers-playwright)
+   
+## Testcontainer implementation for Keycloak IAM & SSO
+- [A Testcontainer implementation for Keycloak IAM & SSO](https://testcontainers.com/modules/keycloak/)
+
+  
+## Testcontainer & Jqwik
+- [
+Model-Based Testing with Testcontainers and Jqwik
+](https://www.docker.com/blog/model-based-testing-testcontainers-jqwik/)
+
+## Debug Testcontainers-based services
+- [Set fixed ports to easily debug development services](https://testcontainers.com/desktop/docs/#debug-testcontainers-based-services)
+
 
 ## Integrations
 
-- [Leveraging Testcontainers for Complex Integration Testing in Mattermost Plugins](https://www.docker.com/blog/leveraging-testcontainers-for-complex-integration-testing-in-mattermost-plugins/)
+- [Leveraging Testcontainers for Complex Integration Testing in Mattermost Plugins](https://www.docker.com/blog/leveraging-testcontainers-for-complex-integration-testing-in-mattermost-plugins/) ![badge](https://img.shields.io/badge/-new-green) 
 - [JUnit 4](https://java.testcontainers.org/test_framework_integration/junit_4/)
 - [JUnit 5](https://java.testcontainers.org/test_framework_integration/junit_5/)
 - [Spock](https://java.testcontainers.org/test_framework_integration/spock/)
+- [api-oha-benchmarker](https://github.com/ivangfr/api-oha-benchmarker) ![badge](https://img.shields.io/badge/-new-green)
+- [Integration tests on Symfony with Testcontainers](https://blog.redrat.com.br/integration-tests-on-symfony-with-testcontainers)
+- [Testcontainers-Based Load Testing Bench](https://dzone.com/articles/testcontainers-based-load-testing-bench)
+- [Testing the Integration Layer of Your Spring Boot Application with Testcontainers and MockServer](https://igventurelli.io/testing-the-integration-layer-of-your-spring-boot-application-with-testcontainers-and-mockserver/)
 
 ## Blogs
 
@@ -136,10 +174,24 @@ Discover official and community modules from the [Modules Catalog](https://testc
 - [Testcontainers - Integration Testing Using Docker In .NET](https://www.milanjovanovic.tech/blog/testcontainers-integration-testing-using-docker-in-dotnet)
 - [How to use Testcontainers with .NET Unit Tests](https://blog.jetbrains.com/dotnet/2023/10/24/how-to-use-testcontainers-with-dotnet-unit-tests/)
 - [How to use Testcontainers with Spring Boot applications for integration testing](https://bell-sw.com/blog/how-to-use-testcontainers-with-spring-boot-applications-for-integration-testing/)
+- [Test-Driven Development with Python, Testcontainers, and pytest](https://collabnix.com/test-driven-development-with-python-testcontainers-and-pytest/)
+- [Build true-to-production tests with Testcontainers, JUnit and Open Liberty](https://openliberty.io/blog/2024/03/13/testcontainers-guide.html)
+- [Integration tests in .NET with Testcontainers](https://www.production-ready.de/2024/04/27/integration-testing-with-testcontainers-en.html)
+- [Testcontainers Best Practices](https://www.docker.com/blog/testcontainers-best-practices/)
+- [Improved Testcontainers Support in Spring Boot 3.1](https://spring.io/blog/2023/06/23/improved-testcontainers-support-in-spring-boot-3-1)
+- [INTRODUCTION TO TEST CONTAINERS: THE BEGINNER’S GUIDE](https://medium.com/the-sixt-india-blog/introduction-to-test-containers-the-beginners-guide-dd1760f918a2)
+- [Streamline Browser Automation: 1 Powerful Way with Testcontainers-Playwright](https://collabnix.com/streamline-browser-automation-1-powerful-way-with-testcontainers-playwright/)
+- [Writing Integration Test using Spring AI and Testcontainers](https://medium.com/itnext/part-3-writing-integration-test-using-spring-ai-and-testcontainers-05207bd48ae3)
+- [NestJS Integration Tests with Testcontainers](https://medium.com/javascript-in-plain-english/nestjs-integration-tests-with-test-containers-0fda3264dbb6)
+- [How to create tests for Bigquery integration with tests containers and Spring Boot 3](https://medium.com/@danielarrais.dev/how-to-create-tests-for-bigquery-integration-with-tests-containers-and-spring-boot-3-685afadf5496)
+- [Testing Microservices with Testcontainers](https://manerajona.medium.com/testing-microservices-with-testcontainers-88fe40363bb3)
+- [Part 3: Writing Integration Test using Spring AI and Testcontainers](https://itnext.io/part-3-writing-integration-test-using-spring-ai-and-testcontainers-05207bd48ae3)
+- [Testcontainers MongoDB ReplicaSet ](https://dev.to/carc/testcontainers-mongodb-replicaset-4koa )
+- [Writing Tests for Dapper with TestContainers in xUnit](https://blogs.sathiyaraman-m.com/writing-tests-for-dapper-with-testcontainers-in-xunit/)
 
 ## Developer Stories
 
-- [Our DPE Journey Halved Pre-Merge Build Time](https://dev.henry.jp/entry/dpe-journey)
+- [Our DPE Journey Halved Pre-Merge Build Time](https://dev.henry.jp/entry/dpe-journey) ![badge](https://img.shields.io/badge/-new-green) 
 
 # Featured Videos
 
@@ -164,9 +216,26 @@ Discover official and community modules from the [Modules Catalog](https://testc
 | ------------------------------------------------ | -------------------------------------------- |
 | [![Spring Boot 3 Integration Testing With TestContainers Junit 5 ](https://img.youtube.com/vi/Q-0Z6KZF1xM/sddefault.jpg)](https://www.youtube.com/watch?v=Q-0Z6KZF1xM) | [![Test your Go code with Testcontainers](https://img.youtube.com/vi/axhCnAuYohw/sddefault.jpg)](https://www.youtube.com/watch?v=axhCnAuYohw) |
 
-| Using TestContainers in .NET Core  |
-| ---------------------------------- |
-|[![Using TestContainers in .NET Core](https://img.youtube.com/vi/vy1aIT5Ppj8/sddefault.jpg)](https://www.youtube.com/watch?v=vy1aIT5Ppj8)|
+| Using TestContainers in .NET Core  | Testcontainers Desktop: questions, answers, and more      |
+| ---------------------------------- | ---------------------------------- |
+|[![Using TestContainers in .NET Core](https://img.youtube.com/vi/vy1aIT5Ppj8/sddefault.jpg)](https://www.youtube.com/watch?v=vy1aIT5Ppj8)|[![Testcontainers Desktop: questions, answers, and more](https://img.youtube.com/vi/PcSWI4W5jWY/sddefault.jpg)](https://www.youtube.com/watch?v=PcSWI4W5jWY) |
+
+
+| Creating Realistic Unit Tests with Testcontainers | Clean Test Data for every test with TestContainers 🐳     |
+| ---------------------------------- | ---------------------------------- |
+|[![Creating Realistic Unit Tests with Testcontainers](https://img.youtube.com/vi/sX4s1HqPZcw/sddefault.jpg)](https://www.youtube.com/watch?v=sX4s1HqPZcw)|[![Clean Test Data for every test with TestContainers 🐳](https://img.youtube.com/vi/985jhpv44NU/sddefault.jpg)](https://www.youtube.com/watch?v=985jhpv44NU) |
+
+| Run Selenium Test with TestContainer Cloud ☁️ and TestContainer Desktop 🖥️| Spring Tips: Testcontainers, Docker Compose, and Service Connections, oh my!   |
+| ---------------------------------- | ---------------------------------- |
+|[![Run Selenium Test with TestContainer Cloud ☁️ and TestContainer Desktop 🖥️](https://img.youtube.com/vi/WwiNZZA0q8o/sddefault.jpg)](https://www.youtube.com/watch?v=WwiNZZA0q8o)|[![Spring Tips: Testcontainers, Docker Compose, and Service Connections, oh my!](https://img.youtube.com/vi/msb2b3BeeQo/sddefault.jpg)](https://www.youtube.com/watch?v=msb2b3BeeQo) |
+
+| Using Testcontainers For Testing by Jasper van Zandbeek| Spring Boot 3 Integration Testing With TestContainers  |
+| ---------------------------------- | ---------------------------------- |
+|[![Using Testcontainers For Testing by Jasper van Zandbeek](https://img.youtube.com/vi/EGmMv2JtCEQ/sddefault.jpg)](https://www.youtube.com/watch?v=EGmMv2JtCEQ)|[![Spring Boot 3 Integration Testing With TestContainers](https://img.youtube.com/vi/41Ry2ojnJFM/sddefault.jpg)](https://www.youtube.com/watch?v=41Ry2ojnJFM) |
+
+| How to Test RabbitMQ with Testcontainers in .NET | 
+| ---------------------------------- | 
+|[![How to Test RabbitMQ with Testcontainers in .NET](https://github.com/user-attachments/assets/0f3ef42e-65a5-47ed-ab93-9607168ca1fc)](https://www.youtube.com/watch?v=DMs3ZuakHGA)
 
 ## Community
 Find us on [Slack](https://testcontainers.slack.com/join/shared_invite/zt-2mivltr8m-Qz1_A7XMV79kQ8TPqMEIdw#/shared-invite/email)
